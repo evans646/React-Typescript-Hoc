@@ -1,0 +1,110 @@
+export let data = [
+    {
+      "id": "642589a3296e2b0c18fb123f",
+      "name": "Mae Larsen",
+      "age": 34,
+      "email": "maelarsen@steelfab.com",
+      "phone": "+233 (971) 503-2180",
+      "address": "140 Oceanic Avenue, 1668",
+      "isActive": false,
+      "salary": "8,587.73",
+      "about": "Lorem in esse ullamco voluptate cillum in voluptate culpa ut ex. Commodo eiusmod occaecat officia velit occaecat. Elit ullamco cillum ullamco consequat incididunt do. Ipsum aliqua labore aliquip nulla nisi cupidatat commodo non et. Amet incididunt voluptate reprehenderit ut enim ullamco eu. Ullamco deserunt ullamco aliquip ipsum ullamco fugiat adipisicing. Aliquip reprehenderit voluptate pariatur nisi ad voluptate laborum aliquip do dolore id in.\r\n",
+      "contract": "Temporay contract"
+    },
+    {
+      "id": "642589a3a829b6c493d7ea53",
+      "name": "Dean Galloway",
+      "age": 36,
+      "email": "deangalloway@steelfab.com",
+      "phone": "+233 (935) 486-3281",
+      "address": "870 Meserole Street, 4487",
+      "isActive": true,
+      "salary": "6,068.02",
+      "about": "Labore mollit ipsum et exercitation laborum tempor do consequat ullamco ex est in. Voluptate incididunt qui nostrud tempor anim id non occaecat consequat. Velit dolore ipsum sit est anim occaecat velit aute officia laborum esse. Magna et excepteur ea aute.\r\n",
+      "contract": "Temporay contract"
+    },
+    {
+      "id": "642589a3d1142d721733a44e",
+      "name": "Mayo Ruiz",
+      "age": 22,
+      "email": "mayoruiz@steelfab.com",
+      "phone": "+233 (888) 430-3469",
+      "address": "223 Hamilton Avenue, 468",
+      "isActive": true,
+      "salary": "5,321.32",
+      "about": "Aliquip aliqua labore non do proident fugiat officia. Veniam exercitation eu laboris labore ad minim veniam dolor eiusmod sint dolore ut cillum. Ea laboris laborum qui ipsum. Eiusmod et cupidatat anim magna velit mollit veniam. Deserunt reprehenderit do commodo quis ex aute ullamco tempor labore incididunt aute velit minim. Eu sint ea dolor occaecat consectetur. Consequat aliquip reprehenderit officia sint.\r\n",
+      "contract": "Temporay contract"
+    },
+    {
+      "id": "642589a37bb621557e4a9a1c",
+      "name": "Wiggins Levy",
+      "age": 35,
+      "email": "wigginslevy@steelfab.com",
+      "phone": "+233 (968) 585-2022",
+      "address": "124 Beard Street, 889",
+      "isActive": false,
+      "salary": "9,057.33",
+      "about": "Excepteur id ut sunt irure amet. Non laborum nisi deserunt nulla irure. Deserunt et nulla dolore minim minim occaecat deserunt pariatur consectetur. Qui est ea ea enim sunt.\r\n",
+      "contract": "Temporay contract"
+    },
+    {
+      "id": "642589a38b746f9f36f81bc5",
+      "name": "Aimee James",
+      "age": 20,
+      "email": "aimeejames@steelfab.com",
+      "phone": "+233 (832) 551-2846",
+      "address": "943 Willoughby Street, 375",
+      "isActive": true,
+      "salary": "4,901.58",
+      "about": "Culpa qui reprehenderit nulla proident ipsum adipisicing duis. Sint dolore excepteur occaecat eu et cillum esse veniam in laboris est quis excepteur. Id quis ullamco excepteur eiusmod elit deserunt aliqua veniam cupidatat fugiat mollit minim nisi.\r\n",
+      "contract": "Fixed Term"
+    },
+    {
+      "id": "642589a3f38a4598670fd029",
+      "name": "Kristi Tillman",
+      "age": 27,
+      "email": "kristitillman@steelfab.com",
+      "phone": "+233 (835) 517-3307",
+      "address": "220 Oriental Court, 7913",
+      "isActive": false,
+      "salary": "5,054.23",
+      "about": "Amet id Lorem ut consequat ipsum pariatur ad ad ex ex quis labore duis dolore. Laborum in labore culpa aliquip cupidatat reprehenderit duis. Minim veniam officia fugiat magna eu sint sint adipisicing consequat dolore proident nulla. Anim adipisicing non qui esse exercitation non eu. Voluptate elit do eu minim commodo dolor.\r\n",
+      "contract": "Fixed Term"
+    },
+    {
+      "id": "642589a36c8c970156cc4009",
+      "name": "Daniel Brennan",
+      "age": 25,
+      "email": "danielbrennan@steelfab.com",
+      "phone": "+233 (976) 411-3616",
+      "address": "676 Johnson Avenue, 4702",
+      "isActive": false,
+      "salary": "4,362.87",
+      "about": "Eu laborum mollit exercitation sit ullamco veniam. Exercitation adipisicing exercitation aliquip eiusmod consectetur aliqua veniam non dolor id. Ex in qui commodo aute nulla esse do fugiat. Occaecat nulla voluptate excepteur anim reprehenderit ipsum proident laboris sit magna labore. Non duis dolor nulla aliquip magna irure veniam.\r\n",
+      "contract": "Temporay contract"
+    },
+    {
+      "id": "642589a3c8aeee920611e33c",
+      "name": "Christy Santiago",
+      "age": 20,
+      "email": "christysantiago@steelfab.com",
+      "phone": "+233 (833) 423-3082",
+      "address": "310 Seacoast Terrace, 1906",
+      "isActive": false,
+      "salary": "4,541.55",
+      "about": "Nisi quis ea ipsum proident. Consequat est proident sint veniam commodo sit. Minim est ut culpa culpa est occaecat irure amet commodo aute magna elit. Reprehenderit incididunt est est tempor. Voluptate adipisicing quis enim officia officia ea in sint mollit aliqua nisi sit proident.\r\n",
+      "contract": "Temporay contract"
+    },
+    {
+      "id": "642589a323743441d8e9d3ec",
+      "name": "Cindy Armstrong",
+      "age": 40,
+      "email": "cindyarmstrong@steelfab.com",
+      "phone": "+233 (929) 529-3867",
+      "address": "422 Independence Avenue, 1069",
+      "isActive": false,
+      "salary": "4,040.76",
+      "about": "Et nisi id excepteur elit occaecat duis eiusmod. Adipisicing fugiat sit cillum veniam occaecat irure nisi. Ex esse tempor ea elit commodo est tempor aliqua occaecat. Fugiat labore velit et irure.\r\n",
+      "contract": "Temporay contract"
+    }
+  ]
