@@ -1,4 +1,4 @@
-export let data = [
+export let Data = [
     {
       "id": "642589a3296e2b0c18fb123f",
       "name": "Mae Larsen",

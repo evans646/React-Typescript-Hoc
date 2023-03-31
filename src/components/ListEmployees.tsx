@@ -1,15 +1,10 @@
 import React from "react";
-// import messageHoc from "./hoc";
+import employeeHoc from "../hoc";
 
 
 
-// const example = (props:any):any=> <p>{props.name}, {props.message}</p>
 
-// // const another =  (props:any):any=> <p>, {props.message}</p>
-// const Message = messageHoc(example)
-
-
-interface EmployeeData extends EmployeeAddress{
+export interface EmployeeData extends EmployeeAddress{
     id:number
     name: string
     age:number
@@ -34,20 +29,10 @@ interface EmployeeAddress{
     line2?:any
 }
 
-const  Employees =(props:{data:EmployeeData}):any=>{
-    return(
-        <div>
-            <p>{props.data.name}</p>
-            {/* <p>{props.data.startdate.toString()}</p> */}
-            <p>{props.data.salary}</p>
-            <p>{props.data.street}</p>
-            <p>{props.data.line1}</p>
-            <p>{props.data.contract}</p>
-        </div>
-    )
-}
-  
 
+const example = (props:any):any=> <p>{props.name}, {props.age}</p>
 
-export default Employees; 
+// const another =  (props:any):any=> <p>, {props.message}</p>
+const Employee = employeeHoc(example)
 
+export default  Employee;
